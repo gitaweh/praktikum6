@@ -1,0 +1,20 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: rgb(231, 158, 116);
+}
+h1{
+    margin: 2.5rem 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+table {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: flex;
+    border-collapse: collapse;
+    background-color: rgb(228, 177, 144);
+    overflow: hidden;
+    width: 70%;
+    height: 110px;
+    border-radius: 10px;
+    }
